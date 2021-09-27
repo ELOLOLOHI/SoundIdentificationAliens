@@ -1,0 +1,38 @@
+body{
+    background-color:#F5DBDA;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.header_div{
+background-color: whitesmoke;
+color:#CE2710;
+
+}
+
+.header_div h3{
+font-family: 'Open Sans Condensed', sans-serif;
+color:palevioletred;
+letter-spacing: 2px;
+}
+
+#startbtn{
+    margin-top: 30px;
+    width: 15%;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+
+#footer{
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Grechen Fuemen', cursive;
+    background-color: whitesmoke;
+    font-size: 25px;
+    padding: 10px;
+    text-shadow: 2px 2px 8px black;
+
+
+}
